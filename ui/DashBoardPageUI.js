@@ -1,0 +1,1 @@
+export const labelTitle = ".post-title";
